@@ -35,7 +35,7 @@ Studied computer science with a specialization in artificial intelligence and ma
 - End-to-end product design for web and mobile (iOS and Android)
 - User research and usability testing
 - Design systems built with engineering (Figma variables, tokens, components)
-- Data visualization
+- Data visualization and Data Analysis
 - Accessibility (WCAG 2.2 AA), Apple HIG, Material Design
 - AI products and human-in-the-loop workflows
 - Code-backed prototypes for testing with real users
@@ -53,6 +53,7 @@ I also won 2nd place out of 30+ teams at the Claude AI Hackathon 2026 with **Car
 ## 🧰 Tech Stack
 
 **Front-end:** HTML, CSS, React, Next.js, TypeScript, Tailwind
-**AI tools:** Claude Code, Cursor, ChatGPT, Gemini
-**Design:** Figma, Framer, ProtoPie, Adobe Creative Cloud
-**Testing and handoff:** Maze, Storybook, Jira, GitHub
+**AI tools:** Claude Code, Cursor, ChatGPT, Google Gemini, Figma Make, Lovable, Google Stitch
+**Design:** Figma, Framer, ProtoPie, Adobe Creative Cloud, Midjourney & Ideogram 3.0
+**Research:** Perplexity, Google NotebookLM, Granola AI, Maze
+**Testing and handoff:** Storybook, Jira, Slack, GitHub, Vercel
